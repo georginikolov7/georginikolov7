@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Georgi
 - 👀 I’m interested in ... web and embedded development
-- 🌱 I’m currently learning ... Databases with C#
+- 🌱 I’m currently learning ... ASP.NET MVC
 - 📫 How to reach me ... georgi.nnikolov07@gmail.com
 - Hobby: Hardware/PCB design
 <!---
