@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Georgi
 
-🚀 **Software Engineer** | 🌐 **Web Development** | 🔌 **Embedded Programming** | 📊 **Data Science Enthusiast**  
+🚀 **Software Engineer** | 🔌 **Embedded Programming** | 📊 **Data Science Enthusiast**  
 
 I build **efficient**, **scalable**, and **human-friendly** solutions — from web applications to low-level embedded systems.  
 Currently exploring the **intersection of data science and engineering** to turn complex datasets into actionable insights.
@@ -37,7 +37,6 @@ Currently exploring the **intersection of data science and engineering** to turn
 ## 📈 Current Focus
 - Deepening knowledge in **data science and analytics**
 - Building end-to-end **IoT + data pipelines**
-- Contributing to **open-source projects**
 
 ---
 
