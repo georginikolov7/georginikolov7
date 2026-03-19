@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Georgi
 
-🚀 **Software Engineer** | 🔌 **Embedded Programming** | 📊 **Data Science Enthusiast**  
+🚀 **Software Engineer** | 🔌 **Embedded Programming** | 📊 **AI Enthusiast**  
 
 I build **efficient**, **scalable**, and **human-friendly** solutions — from web applications to low-level embedded systems.  
 Currently exploring the **intersection of data science and engineering** to turn complex datasets into actionable insights.
@@ -34,12 +34,6 @@ Currently exploring the **intersection of data science and engineering** to turn
 | Project | Tech | Description |
 |---------|------|-------------|
 | **[ClimaLog](#)** | C/C++, C#, JS | Meteorological measurements project, combining embedded, web and mobile layer (Used for national IT olympiad) |
-
----
-
-## 📈 Current Focus
-- Deepening knowledge in **data science and analytics**
-- Building end-to-end **IoT + data pipelines**
 
 ---
 
