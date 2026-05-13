@@ -33,8 +33,8 @@ Currently exploring the **intersection of data science and engineering** to turn
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| **[ClimaLog](#)** | C/C++, C#, JS | Meteorological measurements project, combining embedded, web and mobile layer (Used for national IT olympiad) |
 | **[alpine-hub](https://github.com/georginikolov7/alpine-hub)** | C# (.NET), Web | Web platform built on ASP.NET MVC for SoftUni's Web Advanced course: real-world best practices, clean software architecture. |
+| **[ClimaLog](#)** | C/C++, C#, JS | Meteorological measurements project, combining embedded, web and mobile layer (Used for national IT olympiad) |
 
 ---
 
