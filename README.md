@@ -33,8 +33,9 @@ Currently exploring the **intersection of data science and engineering** to turn
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| **[alpine-hub](https://github.com/georginikolov7/alpine-hub)** | C# (.NET), Web | Web platform built on ASP.NET MVC for SoftUni's Web Advanced course: real-world best practices, clean software architecture. |
+| **[alpine-hub](https://github.com/georginikolov7/alpine-hub)** | C# (.NET), Web | Web platform built on ASP.NET MVC for SoftUni's Web Advanced course: real-world best practices, clean software archi[...]|
 | **[ClimaLog](#)** | C/C++, C#, JS | Meteorological measurements project, combining embedded, web and mobile layer (Used for national IT olympiad) |
+| **[monolith](https://github.com/AUBGTheHUB/monolith)** | Python, JavaScript, Web | The Hub's main monolith repo for student community at AUBG. |
 
 ---
 
